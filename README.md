@@ -83,6 +83,7 @@ Understanding your audience’s expertise level is key to shaping your presentat
 Purpose:
 1) Clearly state the product's primary function and the problem it solves.
 2) Keep it to one or two sentences.
+ 
 Key Features:
 1) Highlight the top three to five features that set the product apart.
 2) Use bullet points for easy reading.
